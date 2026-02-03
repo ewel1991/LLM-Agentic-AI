@@ -1,0 +1,20 @@
+analysis_task:
+  description: >
+    Odwiedź {source} i znajdź 3 najnowsze artykuły dotyczące {topic}. 
+    Z każdego artykułu wypisz: tytuł, główne przesłanie oraz 3 trudne słowa/frazy (B2/C1).
+  expected_output: >
+    Surowa lista 3 newsów z przypisanym do nich zaawansowanym słownictwem.
+  agent: content_analyst
+
+newsletter_task:
+  description: >
+    Przekształć dane od analityka w czytelną listę punktową. 
+    Dla każdego newsa przygotuj:
+    - Krótkie podsumowanie.
+    - Twój komentarz (dlaczego to ważne).
+    - Sekcję "Vocabulary": Term (Level) - Definition. Example sentence.
+  expected_output: >
+    Finalny newsletter w formacie Markdown, gotowy do wysłania.
+  agent: newsletter_editor
+  context:
+    - analysis_task
