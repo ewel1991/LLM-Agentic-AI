@@ -1,0 +1,149 @@
+[  ] orzechy pekan
+[  ] orzechy włoskie
+[  ] kukurydza ziarna
+[  ] śliwki suszone
+[  ] len nasiona
+[  ] mak
+[  ] czarnuszka
+[  ] nasiona chia
+[  ] orzechy w wasabi
+[  ] pestki dyni
+[  ] słonecznik łuskany
+[  ] płatki migdały
+[  ] kaszka manna
+[  ] wiórki kokosowe
+[  ] płatki owsiane
+[  ] płatki jaglane
+[  ] daktyle
+[  ] żurawina suszona
+[  ] czekolada 200g
+[  ] orzechy laskowe
+[  ] fistaszki
+
+[  ] wafle kukurydziane
+[  ] wafle ryżowe
+
+[  ] masło klarowane
+
+[  ] szafran
+[  ] owoce jałowca
+[  ] tymianek
+[  ] pektyna cytrusowa
+[  ] liście laurowe
+[  ] jagoda proszek
+[  ] maca
+[  ] estragon
+[  ] anyż
+[  ] przyprawa do piernika
+[  ] kakao
+[  ] oregano
+[  ] pieprz ziołowy
+[  ] spirulina
+[  ] imbir
+[  ] ziele angielskie
+[  ] sezam czarny
+[  ] cynamon
+[  ] kurkuma
+[  ] proszek do pieczenia
+[  ] chili
+[  ] sól czarna
+[  ] sól kłodawska
+[  ] pieprz czarny
+[  ] papryka słodka
+[  ] czosnek niedzwiedzi
+[  ] mięta
+[  ] zioła prowansalkie
+[  ] lubczyk
+[  ] gałka muszkatłowa
+[  ] koper włoski
+[  ] koperek suszony
+[  ] kminek
+[  ] majeranek
+[  ] suszone pomidory
+[  ] garam masala
+[  ] pieprz cytrynowy
+[  ] goździki
+[  ] wanilia
+[  ] kardamon
+
+[  ] siemię lniane
+[  ] płatki drożdzowe
+[  ] mąka kukurydziana
+[  ] łuska babki jajowatej
+[  ] bułka tarta
+[  ] mąka ziemniaczana
+[  ] skrobia kukurydziana
+[  ] mąka żytnia
+[  ] papier ryżowy
+[  ] kwas cytrynowy
+[  ] soda oczyszczona
+[  ] drożdże suszone
+
+[  ] drożdże świeże
+[  ] smalec
+[  ] masło
+[  ] śmietana 36%
+[  ] śmietana 18%
+[  ] ser żółty
+[  ] twaróg
+[  ] jajka
+[  ] kiszone marchewki 
+[  ] kiszony czosnek
+[  ] kiszone ogórki
+[  ] jabłka
+[  ] boczniaki
+[  ] mleko
+[  ] cebula
+[  ] cebula czerwona
+[  ] pomelo
+[  ] musztarda
+[  ] keczup
+[  ] kapary
+[  ] sos rybny
+[  ] ocet balsamiczny
+[  ] kukurydza konserwowa
+
+[  ] schab
+[  ] wątróbka z kurczaka
+[  ] indyk
+[  ] kaczka
+[  ] kurczak
+
+[  ] mrożony szczypiorek
+[  ] warzywa mix do woka
+[  ] mrożone maliny
+[  ] mrożone jagody
+[  ] mrożony szpinak
+
+[  ] kasza orkiszowa
+[  ] makaron orkiszowy
+[  ] ksylitol
+[  ] makaron ryżowy
+[  ] komosa ryżowa
+[  ] soczewica
+[  ] mini bezy gotowe
+
+[  ] ziemniaki
+[  ] marchew
+[  ] papryka
+
+[  ] jabłka
+
+[  ] kawa mielona
+[  ] kawa sypana
+[  ] kawa zbożowa
+[  ] herbata
+
+[  ] syrop z aronii
+[  ] miód lipowy
+[  ] miód gryczany
+[  ] olej kokosowy
+[  ] ocet ryżowy
+[  ] masło orzechowe
+[  ] krem czekoladowy
+[  ] oliwa z oliwek
+
+[  ] sok jabłkowy
+[  ] ocet jabłkowy
+[  ] kombucha
+[  ] wino
